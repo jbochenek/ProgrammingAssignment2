@@ -1,5 +1,4 @@
 ## jlbochenek for Coursera
-## 
 
 ## creates a special matrix object that can cache things.
 
